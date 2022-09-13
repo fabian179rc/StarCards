@@ -37,17 +37,3 @@
 
  <h4 align="center">=> <a href="https://starcards.vercel.app/">StarCards</a> <= </h4>
 
-
-#### Install
-
-- First
-
-`$  git clone`
-
-- Second: install dependencies (client / api)
-
-`$ npm install`
-
-- Third: create .env
-
-`file .env.example`
